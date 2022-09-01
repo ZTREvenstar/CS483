@@ -1,0 +1,12 @@
+profile:
+  id: 6307186fc55d8a303847999c
+  firstname: Zhang
+  lastname: ' Tingrong'
+  username: tz58
+  email: tz58@illinois.edu
+  access_key: auth0|6307186f78ae3c090346eba3
+  secret_key: JGFyZ29uMmkkdj0xOSRtPTMyNzY4LHQ9NCxwPTQkSzBoYUhUTStOVTZMZkxoTHBOUnBhUSRvZG5tTjgzK01qQ1N3RzJvMWZWZnpmL0NCZzJIeXN2aEwyQTJZSUlPbVJB
+  affiliation: ECE408
+  team:
+    name: ""
+  role: student
